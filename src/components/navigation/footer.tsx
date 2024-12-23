@@ -21,7 +21,7 @@ export function Footer() {
                     Build beautiful, functional websites, without writing code
                 </p>
                 <span className="mt-4 text-neutral-200 text-sm flex items-center">
-                    Made with 💜 by Achyuth.
+                    Made with 💜 by Ayota
                     <Heart className="w-3.5 h-3.5 ml-1 fill-primary text-primary" />
                 </span>
             </div>
