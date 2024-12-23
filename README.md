@@ -57,4 +57,4 @@ Make sure that you have installed
 
 
 
-Made with 💜 by Pedro Galembeck.
+Made with 💜 by Ayota.
