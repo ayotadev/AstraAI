@@ -12,7 +12,7 @@ import { ArrowRight } from "lucide-react";
 export const NewsletterSection = () => {
   return (
     <section id="newsletter">
-      <Wrapper className="flex flex-col items-center justify-center relative">
+      <Wrapper className="flex flex-col items-center justify-center relative z-10">
         <Container>
           <LampContainer>
             <div className="flex flex-col items-center justify-center relative w-full text-center">
@@ -32,7 +32,7 @@ export const NewsletterSection = () => {
             </div>
           </LampContainer>
         </Container>
-        <Container className="relative z-[999999]">
+        <Container className="relative z-10">
           <div className="flex items-center justify-center w-full -mt-40">
             <div className="flex flex-col md:flex-row items-start md:items-center justify-start md:justify-between w-full px-4 md:px-8 rounded-lg lg:rounded-2xl border border-border/80 py-4 md:py-8">
               <div className="flex flex-col items-start gap-4 w-full">
