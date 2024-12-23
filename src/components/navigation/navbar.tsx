@@ -9,7 +9,7 @@ export async function Navbar() {
   const user = await currentUser();
 
   return (
-    <header className="fixed top-10 left-5 right-5 px-6 py-4 bg-background/40 backdrop-blur-lg border border-white rounded-2xl shadow-xl z-50 md:max-w-5xl md:mx-auto">
+    <header className="fixed top-10 left-5 right-5 px-6 py-4 bg-background/40 backdrop-blur-lg border border-white rounded-2xl shadow-xl z-50 w-full max-w-sm sm:max-w-[620px] md:max-w-4xl md:mx-auto">
       <div className="flex items-center justify-between h-full mx-auto md:max-w-screen-xl">
         <div className="flex items-start">
           <Link href="/" className="flex items-center gap-2">
