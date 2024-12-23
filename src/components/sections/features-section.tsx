@@ -19,7 +19,7 @@ export const FeaturesSection = () => {
               Discover our powerful features
             </h2>
             <p className="text-muted-foreground mt-6">
-              Astra offers a range of features to help you build a stunning
+              AstraAI offers a range of features to help you build a stunning
               website in no time
             </p>
           </div>

@@ -29,7 +29,7 @@ export const HeroSection = () => {
               <span className={cn(
                 `inline animate-gradient bg-gradient-to-r from-[#FFAA40] via-[#9C40FF] to-[#FFAA40] bg-[length:var(--bg-size)_100%] bg-clip-text text-transparent`,
               )}>
-                Introducing Astra AI  
+                Introducing AstraAI  
               </span>
               <ChevronRight className="ml-2 w-4 h-4" />
             </AnimatedGradientText>
@@ -43,7 +43,7 @@ export const HeroSection = () => {
             <span className="h-full w-full blur-md absolute bottom-0 inset-x-0 bg-gradient-to-tr from-primary/40" />
             <span className="z-10 py-0.5 text-sm text-neutral-100 flex items-center justify-center gap-1.5">
               <Image src="/icons/sparkles-dark.svg" alt="✨" width={24} height={24} className="w-4 h-4" />
-                Introducing Astra AI
+                Introducing AstraAI
               <ChevronRight className="w-4 h-4" />
             </span>
           </button> */}

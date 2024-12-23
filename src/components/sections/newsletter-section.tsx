@@ -20,7 +20,7 @@ export const NewsletterSection = () => {
                 From Idea to Launch <br /> Faster Than Ever
               </h2>
               <p className="text-muted-foreground mt-6 max-w-md mx-auto">
-                Build stunning websites with Astra&apos;s intuitive
+                Build stunning websites with AstraAI&apos;s intuitive
                 drag-and-drop builder and powerful AI assistant
               </p>
               <Button variant="white" className="mt-6" asChild>

@@ -25,7 +25,7 @@ export const TestimonialsSection = () => {
               What people are saying
             </h2>
             <p className="text-muted-foreground mt-6">
-              See how Astra empowers businesses of all sizes. Here&apos;s what
+              See how AstraAI empowers businesses of all sizes. Here&apos;s what
               real people are saying on Twitter
             </p>
           </div>

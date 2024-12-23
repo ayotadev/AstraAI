@@ -58,3 +58,7 @@ Make sure that you have installed
 
 
 Made with 💜 by Ayota.
+
+Credits:
+
+Big thanks to my brother, Shreyas. *helped me out fix some bugs & design...
