@@ -1,8 +1,8 @@
 <h1 align="start">
-  🤖 | Astra - AI Powered Website Builder
+  🤖 | AstraAI - AI Powered Website Builder
 </h1>
 
-<img width="1280" alt="Astra Thumbnail" src="https://github.com/user-attachments/assets/8d11fc9c-8220-4d36-a0e3-271b73a7f23d">
+<img width="1280" alt="AstraAI Thumbnail" src="https://huggingface.co/spaces/AchyuthGamer/files/resolve/main/README-Banner.png">
 
 
 ## Introduction
@@ -28,8 +28,8 @@ Make sure that you have installed
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/galembeck/astra-ai-builder.git
-   cd astra-wai-builder
+   git clone https://github.com/ayotadev/AstraAI.git
+   cd AstraAI
    ```
 2. Install dependencies:
    ```bash

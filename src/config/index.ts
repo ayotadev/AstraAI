@@ -26,7 +26,7 @@ export const SITE_CONFIG: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        creator: "@galembeck",
+        creator: "@ayotadev",
         title: "Astra - AI Powered Website Builder",
         description: "Astra is an AI powered website builder that helps you create a website in minutes. No coding skills required. Get started for free!",
         images: [
@@ -35,5 +35,5 @@ export const SITE_CONFIG: Metadata = {
             }
         ]
     },
-    metadataBase: new URL("https://astra-ai-galembeck.vercel.app"),
+    metadataBase: new URL("https://astra-ai-delta.vercel.app/"),
 };

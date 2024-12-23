@@ -22,7 +22,7 @@ export const HeroSection = () => {
 
       <Container>
       <div className="flex flex-col items-center justify-center py-20 h-full">    
-        <button className="group relative grid overflow-hidden rounded-full shadow-[0_1000px_0_0_hsl(0_0%_20%)_inset] transition-colors duration-200 bg-gradient-to-tr from-primary/40">
+        <button className="group relative grid overflow-hidden rounded-full shadow-[0_1000px_0_0_hsl(0_0%_20%)_inset] transition-colors duration-200 bg-gradient-to-tr from-primary/40 mt-[70px]">
           <span className="h-full w-full blur-md absolute bottom-0 inset-x-0 bg-gradient-to-tr from-primary/40" />
             <AnimatedGradientText className="bg-neutral-950">
               ✨ <hr className="mx-2 h-4 w-[1px] shrink-0 bg-gray-300" /> {" "}

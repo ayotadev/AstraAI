@@ -22,7 +22,7 @@ import { Zap } from "lucide-react";
 export const PricingSection = () => {
   return (
     <section id="pricing">
-      <Wrapper className="flex flex-col items-center justify-center py-12 relative">
+      <Wrapper className="flex flex-col items-center justify-center py-12 relative mt-[75px]">
         <Container>
           <div className="max-w-md md:mx-auto text-start md:text-center">
             <SectionBadge title="Pricing" />

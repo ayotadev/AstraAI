@@ -1,5 +1,5 @@
 export default function BlogPage() {
   return (
-    <div>Blog</div>
+    <div className="mt-[235px]">Blog</div>
   );
 }

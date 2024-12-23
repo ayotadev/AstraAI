@@ -1,8 +1,7 @@
 import Link from "next/link";
-
 import Icons from "../global/icons";
-
 import { Heart } from "lucide-react";
+import Image from 'next/image';
 
 export function Footer() {
   return (
@@ -15,13 +14,19 @@ export function Footer() {
 
             <div className="flex flex-col items-start justify-start md:max-w-[200px]">
                 <div className="flex items-start">
-                    <Icons.logo className="w-7 h-7" />
+                        <Image 
+                          src="/icons/A-logo.png" 
+                          alt="Logo" 
+                          width={30} 
+                          height={30} 
+                          priority 
+                        />
                 </div>
                 <p className="text-muted-foreground mt-4 text-sm text-start">
                     Build beautiful, functional websites, without writing code
                 </p>
                 <span className="mt-4 text-neutral-200 text-sm flex items-center">
-                    Made with 💜 by Ayota
+                    Made by Ayota with
                     <Heart className="w-3.5 h-3.5 ml-1 fill-primary text-primary" />
                 </span>
             </div>
@@ -138,11 +143,11 @@ export function Footer() {
                 &copy; {new Date().getFullYear()} Astra AI INC. All rights reserved.
             </p>
             <Link 
-                href="https://github.com/galembeck"
+                href="https://github.com/ayotadev"
                 target="_blank"
                 className="text-sm text-white mt-8 md:mt-0 hover:text-white/80 transition outline-none" 
             >
-                Pedro Galembeck | GitHub
+                AyotaDev | GitHub
             </Link>
         </div>
 
